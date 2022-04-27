@@ -1,0 +1,17 @@
+h5,h2 {
+    text-align: center;
+}
+
+.container {
+    display: block;
+    text-align: center;
+} 
+
+ul{
+    list-style-type:none;
+}
+li {
+    padding: 1rem 0;
+}
+
+

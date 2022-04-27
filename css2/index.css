@@ -1,0 +1,35 @@
+.centerlogo {
+  display: grid;
+  place-items: center;
+}
+
+.search {
+  background-color: lightgray;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+.buttons {
+  grid-column: 1/1;
+  padding-top: 1rem;
+}
+
+.btn {
+  padding: 0 1rem;
+}
+.input {
+  padding: 0 5rem;
+}
+
+.footer {
+    padding-top: 0.5rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  gap: 0.5rem;
+  text-align: center;
+}
+
+.footerclasses {
+    background-color: aqua;
+}
