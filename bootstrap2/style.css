@@ -1,0 +1,27 @@
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
+.card-body .storyimage {
+    border:2px solid red;
+    border-radius:50%;
+    margin-bottom:2px;
+}
+.card-body a:hover {
+    opacity:0.8;
+}
+.instagramnick a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.instagramnick:hover {
+    opacity:0.8;
+}
+ul li a:hover {
+    opacity:0.5;
+}
+.card-body .aboutbox {
+    color: rgb(196, 196, 196);
+    font-size: 11px;
+}
