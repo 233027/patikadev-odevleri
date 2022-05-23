@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-function Form(todos, setTodos) {
+function Form({todos, setTodos}) {
   const [form, setForm] = useState("");
   useEffect(() => {
     setForm("");
